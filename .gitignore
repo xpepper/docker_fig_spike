@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+env
+blog
+presentation.md
+circle.yml
+fig.yml
